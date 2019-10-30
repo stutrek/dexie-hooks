@@ -8,7 +8,8 @@
         "moduleResolution": "node",
         "outDir": "./dist",
         "target": "es3",
-        "lib": ["es6", "dom"]
+        "lib": ["es6", "dom"],
+        "declaration": true
     },
     "files": ["index.ts"]
 }

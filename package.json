@@ -1,12 +1,12 @@
 {
     "name": "dexie-hooks",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Hooks for Dexie",
     "main": "dist/index.js",
     "author": "Stu Kabakoff <sakabako@gmail.com>",
     "license": "MIT",
     "files": [
-        "dist/index.js"
+        "dist"
     ],
     "scripts": {
         "build": "tsc"
