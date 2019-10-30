@@ -1,0 +1,26 @@
+{
+    "name": "dexie-hooks",
+    "version": "1.0.0",
+    "description": "Hooks for Dexie",
+    "main": "dist/index.js",
+    "author": "Stu Kabakoff <sakabako@gmail.com>",
+    "license": "MIT",
+    "files": [
+        "dist/index.js"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "@types/react": "^16.9.11",
+        "dexie": "^2.0.4",
+        "dexie-observable": "^1.0.0-beta.5",
+        "jest": "^24.9.0",
+        "prettier": "^1.18.2",
+        "typescript": "^3.6.4"
+    },
+    "peerDependencies": {
+        "dexie": "^2.0.4 | ^3.0.0",
+        "react": "^16.11.0"
+    }
+}
