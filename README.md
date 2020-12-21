@@ -1,5 +1,11 @@
 # dexie-hooks
 
+## There is now an official replacement for this!
+
+[See Dexie's official docs on `useLiveQuery`](<https://dexie.org/docs/dexie-react-hooks/useLiveQuery()>)
+
+## Old docs for reference
+
 Dexie hooks make it easy to use Dexie in React. If you're using Dexie.Observable they will respond to changes to the database.
 
 -   `useTable(db.table)` - uses an entire table.
